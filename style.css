@@ -92,6 +92,7 @@ button:active {
     border: none;
     background: none;
     overflow-wrap: break-word;
+    color: white;
 }
 
 #converted-txt:active {
